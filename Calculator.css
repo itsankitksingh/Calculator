@@ -20,7 +20,7 @@ body {
 #calculator {
     height: relative;
     width: 300px;
-    background-color: aquamarine;
+    background-color: rgb(58, 58, 214);
     border: 2px solid black;
     margin: auto;
     margin-top: 112px;
